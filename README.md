@@ -13,11 +13,12 @@ turn-budget optimization results.
 (ages 7–13, 2021–2023)
 
 ## Files
-
 - `analysis_pipeline.py` — Survival and hazard analysis
 - `semantic_validation.py` — Semantic anchoring validation
 - `supervised_baselines.py` — Baseline comparison
 - `session_metadata.csv` — Session-level metadata (N=3,236)
+- `table_s3_turn_budget_sensitivity.csv` — Pre-computed 
+  turn-budget detection rates with bootstrap 95% CIs
 - `requirements.txt` — Package dependencies
 
 ## Keyword Lexicon
